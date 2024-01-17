@@ -1,6 +1,6 @@
 # TimescaleShenanigans
 
-Changes the timescale of the engine based upon enemy kills. Only affected by player kills, *not* ally kills or Forgive Me Please.
+Changes the timescale of the engine based upon enemy kills. Only affected by player kills, *not* ally kills (excluding Engi turrets because that would just be cheese) or Forgive Me Please.
 
 Currently two scaling styles available:
 
