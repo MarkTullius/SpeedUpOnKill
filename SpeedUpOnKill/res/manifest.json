@@ -1,0 +1,12 @@
+﻿{
+  "name": "TimescaleShenanigans",
+  "author": "MarkTullius",
+  "authorName": "MarkTullius",
+  "version_number": "2.1.1",
+  "website_url": "",
+  "description": "Changes the timescale of the engine based upon enemy kills. Only affected by player kills, *not* ally kills or Forgive Me Please.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2100",
+    "RiskofThunder-HookGenPatcher-1.2.3"
+  ]
+}
