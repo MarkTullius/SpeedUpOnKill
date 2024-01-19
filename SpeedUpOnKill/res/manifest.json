@@ -2,7 +2,7 @@
   "name": "TimescaleShenanigans",
   "author": "MarkTullius",
   "authorName": "MarkTullius",
-  "version_number": "2.1.1",
+  "version_number": "2.1.2",
   "website_url": "",
   "description": "Changes the timescale of the engine based upon enemy kills. Only affected by player kills, *not* ally kills or Forgive Me Please.",
   "dependencies": [

@@ -12,6 +12,11 @@ Currently two scaling styles available:
 
 # Changelog
 
+**2.1.2**
+
+-   Fix bug where the player could infinitely spawn Engi turrets if placed on the same frame that a turret killed an enemy
+-   Minor code cleanup, remove debug lines left in by mistake
+
 **2.1.1**
 
 -   Make Engi turret kills count
